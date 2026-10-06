@@ -1,0 +1,13 @@
+{
+  "name": "slop-mop",
+  "owner": {
+    "name": "Mysz0"
+  },
+  "plugins": [
+    {
+      "name": "slop-mop",
+      "source": "./",
+      "description": "Mops the AI slop out of app UI: a delete-first design process, slop tells and a 20-point review checklist for iOS, Android and web apps."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "slop-mop",
+  "description": "Mops the AI slop out of app UI: a delete-first design process, slop tells and a 20-point review checklist for iOS, Android and web apps.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mysz0"
+  },
+  "homepage": "https://github.com/Mysz0/slop-mop",
+  "repository": "https://github.com/Mysz0/slop-mop",
+  "license": "MIT",
+  "keywords": ["design", "ui", "ux", "swiftui", "jetpack-compose", "material", "hig", "skill"]
+}
